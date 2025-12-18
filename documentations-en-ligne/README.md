@@ -23,5 +23,6 @@ tags:
 |     Vue      |                   [vuejs.org](https://vuejs.org/guide/introduction)﹡                   |
 |  Typescript  |              [typescriptlang.org](https://www.typescriptlang.org/docs/)﹡               |
 |   MongoDB    |                     [mongodb.com](https://www.mongodb.com/docs/)﹡                      |
+|     Ruby     |                    [ruby-lang.org](https://www.ruby-lang.org/fr/)﹡                     |
 | Git & GitHub | [git-scm.com](https://git-scm.com/doc)﹡<br>[docs.github](https://docs.github.com/fr)﹡ |
 |   Testing    |                   [glossary.istqb.org](https://glossary.istqb.org)﹡                    |
