@@ -39,6 +39,7 @@ Les fiches sont rangées selon votre besoin :
 
 ### Ressources
 
+- [Communautés](ressources/communautes.md) : où trouver des réponses, poser ses questions et rencontrer d'autres développeurs et développeuses
 - [Documentations](ressources/documentations.md) : les documentations officielles des technos du parcours, classées par domaine
 
 ## Licence
