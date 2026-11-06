@@ -37,6 +37,10 @@ Les fiches sont rangées selon votre besoin :
 
 - [Le terminal](technos/terminal/) : se repérer, se déplacer et manipuler des fichiers en ligne de commande (bash, zsh et PowerShell)
 
+### Projets
+
+- [Idées de projets](projets/) : des projets classés par niveau, de la sortie de prépa au framework, pour pratiquer par soi-même
+
 ### Ressources
 
 - [Communautés](ressources/communautes.md) : où trouver des réponses, poser ses questions et rencontrer d'autres développeurs et développeuses
