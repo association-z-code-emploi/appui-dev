@@ -2,4 +2,7 @@ node_modules/
 .env*
 */.DS_Store
 
+drafts/
 **draft_**
+
+templates/
