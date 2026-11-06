@@ -27,7 +27,7 @@ Face à une techno qu'on ne connaît pas (un langage, un framework, un outil), o
 ### La démarche en cinq étapes
 
 1. **Situer** : À quoi sert cette techno ? Quel problème résout-elle ? À quoi ressemble-t-elle parmi ce qu'on connaît déjà ? La page d'accueil officielle et d'autres sites comme [roadmap.sh](https://roadmap.sh/) aident à la placer dans le paysage.
-2. **Lire le _Getting Started_ officiel**, en entier, avant de taper la moindre commande. La doc officielle est à jour et fait référence ; un tutoriel vient éventuellement après, pour un besoin précis.
+2. **Lire le _Getting Started_ officiel**, en entier, avant de taper la moindre commande. La doc officielle est à jour et fait référence ; un tutoriel vient éventuellement après, pour un besoin précis. Pour s'y repérer : fiche [Lire une documentation](../lire-une-doc/).
 3. **Obtenir un premier résultat** : installer, puis faire fonctionner le premier exemple. L'objectif n'est pas d'apprendre, c'est d'avoir un environnement qui marche. Si ça bloque ici, c'est presque toujours l'installation : on relit la doc d'installation propre à son système.
 4. **Construire un mini-projet jetable** : une seule fonctionnalité, rien de plus. On écrit les étapes en commentaires avant de coder, et on vise le fonctionnel avant l'esthétique. "Jetable" veut dire qu'il n'a pas besoin d'être beau ni complet : il sert à apprendre.
 5. **Le refaire sans aide, et savoir l'expliquer.** On recommence dans un dossier vide, sans regarder la première version. Puis on explique chaque ligne, à voix haute ou à quelqu'un. **Une ligne qu'on ne sait pas expliquer, c'est une ligne qu'on n'a pas encore apprise !**
@@ -40,7 +40,7 @@ Enchaîner les tutoriels donne l'impression d'apprendre : tout fonctionne ... pu
 
 - **La régularité compte plus que l'intensité** : 30 minutes par jour valent mieux que 4 heures une fois par semaine.
 - **Un planning simple**, noté quelque part et partagé avec quelqu'un de confiance, aide à s'y tenir.
-- **On fait des pauses**, et on ne reste pas bloqué·e des heures sur un problème : on cherche, on débogue, puis on demande de l'aide.
+- **On fait des pauses**, et on ne reste pas bloqué·e des heures sur un problème : on cherche dans la doc, on [débogue](../deboguer/), puis on [demande de l'aide](../demander-de-l-aide/).
 - **On ne se compare pas** : chacun·e avance à son rythme, et les difficultés font partie de l'apprentissage !
 
 ## Exercices
@@ -56,7 +56,7 @@ Les énoncés sont dans [`exercices/README.md`](exercices/README.md) :
 - **Commencer par une vidéo de plusieurs heures** : on regarde, on ne pratique pas. On lit plutôt le _Getting Started_ et on vise un premier résultat dans l'heure. Comprendre en regardant et comprendre en faisant ne sont pas deux méthodes identiques en résultats : la première vient d'un·e autre, la seconde vient de soi !
 - **Un premier projet trop ambitieux** : on se décourage avant d'avoir appris l'essentiel. Une seule fonctionnalité suffit.
 - **Copier-coller sans comprendre** : ça fonctionne, mais on ne sait pas pourquoi. C'est exactement comme regarder quelqu'un faire mais ne jamais faire par soi-même.
-- **Suivre une doc ou un tutoriel d'une autre version** : certaines commandes peuvent échouer sans raison apparente. On vérifie la version utilisée avant de chercher plus loin. Parfois, c'est aussi une question de formulation et tous les guides ne se valent pas pour telle ou telle personne.
+- **Suivre une doc ou un tutoriel d'une autre version** : certaines commandes peuvent échouer sans raison apparente. On vérifie la version utilisée avant de chercher plus loin (fiche [Lire une documentation](../lire-une-doc/)). Parfois, c'est aussi une question de formulation et tous les guides ne se valent pas pour telle ou telle personne.
 - **Vouloir tout comprendre avant de commencer** : certaines notions ne prennent sens qu'en pratiquant. On avance, et on y revient plus tard, promis !
 
 ## Pour aller plus loin
@@ -76,4 +76,4 @@ Vous savez maintenant aborder une techno inconnue avec une démarche, plutôt qu
 
 Alors vous êtes sûrement prêt·es à l'appliquer à la prochaine techno de votre formation !
 
-Un doute plus tard ? Revenez à la démarche en cinq étapes. Prenez votre temps.
+Un doute plus tard ? Revenez à la démarche en cinq étapes. Et pour aller plus loin dans la méthode, les autres fiches de la catégorie vous attendent : [Lire une documentation](../lire-une-doc/), [Déboguer](../deboguer/) et [Demander de l'aide](../demander-de-l-aide/).
