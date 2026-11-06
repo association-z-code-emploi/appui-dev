@@ -112,6 +112,6 @@ Les énoncés sont dans [`exercices/README.md`](exercices/README.md) :
 
 ## Et ensuite ?
 
-Vous savez maintenant reconnaître la sorte de problème, lire un message d'erreur et suivre une méthode plutôt que tâtonner : vous êtes prêt·es à déboguer seul·es dans n'importe quel langage. Si vous restez bloqué·es malgré tout, c'est le moment de chercher dans la doc (fiche [Lire une documentation](../lire-une-doc/)), puis de demander de l'aide.
+Vous savez maintenant reconnaître la sorte de problème, lire un message d'erreur et suivre une méthode plutôt que tâtonner : vous êtes prêt·es à déboguer seul·es dans n'importe quel langage. Si vous restez bloqué·es malgré tout, c'est le moment de chercher dans la doc (fiche [Lire une documentation](../lire-une-doc/)), puis de [Demander de l'aide](../demander-de-l-aide/).
 
 Un doute plus tard ? Revenez à la méthode en cinq étapes, sinon faites une pause : inutile de "forcer" une résolution, laisser vous un peu d'air avant de revenir à la charge !

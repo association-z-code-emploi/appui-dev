@@ -29,8 +29,9 @@ Les fiches sont rangées selon votre besoin :
 ### Démarrer
 
 - [Apprendre une nouvelle techno](demarrer/apprendre-une-techno/) : comment aborder un langage, un framework ou un outil qu'on ne connaît pas
-- [Lire une documentation](demarrer/lire-une-doc/) : se repérer dans une doc officielle et lire une page de référence
 - [Déboguer](demarrer/deboguer/) : trouver pourquoi un programme ne fait pas ce qu'on attend, avec une méthode et les bons outils
+- [Demander de l'aide](demarrer/demander-de-l-aide/) : savoir quand demander, comment formuler sa question et quoi faire de la réponse
+- [Lire une documentation](demarrer/lire-une-doc/) : se repérer dans une doc officielle et lire une page de référence
 
 ### Technos
 
