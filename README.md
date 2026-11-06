@@ -26,9 +26,13 @@ Les fiches sont rangées selon votre besoin :
 
 ## Index des fiches
 
+### Démarrer
+
+- [Apprendre une nouvelle techno](demarrer/apprendre-une-techno/) : comment aborder un langage, un framework ou un outil qu'on ne connaît pas
+
 ### Technos
 
-- [Le terminal](technos/terminal/) : se repérer, se déplacer et manipuler des fichiers en ligne de commande (bash, zsh et PowerShell).
+- [Le terminal](technos/terminal/) : se repérer, se déplacer et manipuler des fichiers en ligne de commande (bash, zsh et PowerShell)
 
 ## Licence
 
