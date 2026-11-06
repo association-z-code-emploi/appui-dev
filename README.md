@@ -37,6 +37,10 @@ Les fiches sont rangées selon votre besoin :
 
 - [Le terminal](technos/terminal/) : se repérer, se déplacer et manipuler des fichiers en ligne de commande (bash, zsh et PowerShell)
 
+### Ressources
+
+- [Documentations](ressources/documentations.md) : les documentations officielles des technos du parcours, classées par domaine
+
 ## Licence
 
 Voir [LICENSE](LICENSE).
