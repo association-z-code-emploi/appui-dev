@@ -29,6 +29,7 @@ Les fiches sont rangées selon votre besoin :
 ### Démarrer
 
 - [Apprendre une nouvelle techno](demarrer/apprendre-une-techno/) : comment aborder un langage, un framework ou un outil qu'on ne connaît pas
+- [Lire une documentation](demarrer/lire-une-doc/) : se repérer dans une doc officielle et lire une page de référence
 
 ### Technos
 
